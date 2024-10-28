@@ -1,0 +1,12 @@
+.common{
+    font-size: 24px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
+#btna{
+    background-color: #000000;
+    color:#ffffff;
+}
+#btnb{
+    background-color: #cccc52;
+    color:#000000;
+}
